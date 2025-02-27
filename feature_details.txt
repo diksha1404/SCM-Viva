@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated
+=======
+This is another branch.
+>>>>>>> feature-update
